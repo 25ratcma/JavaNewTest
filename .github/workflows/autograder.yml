@@ -1,0 +1,77 @@
+name: Maven Build and Test for GitHub Classroom
+
+# Trigger the workflow on push or pull requests to any branch
+on: 
+  push:
+    branches:
+      - '*'
+  pull_request:
+    branches:
+      - '*'
+
+jobs:
+  build:
+    timeout-minutes: 3
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure Unit Test Integrity For Noncommercial
+        working-directory: DMV_Personal_Commercial/src/test/java/noncommercial
+        run:  rm bmwTest.java;
+              rm harleyTest.java;
+              rm chevyTest.java;
+              rm fordTest.java;
+              curl -o bmwTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/DMVRecord-Personal/fordTest.java;
+              curl -o harleyTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/DMVRecord-Personal/chevyTest.java;
+              curl -o chevyTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/DMVRecord-Personal/harleyTest.java;
+              curl -o fordTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/DMVRecord-Personal/bmwTest.java;
+      
+      - name: Ensure Unit Test Integrity For Commercial
+        working-directory: DMV_Personal_Commercial/src/test/java/commercial
+        run:  rm flTest.java;
+              rm kenworthTest.java;
+              rm tractorTest.java;
+ 
+              curl -o flTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/PA_DMV_Group/commercial/flTest.java;
+              curl -o kenworthTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/PA_DMV_Group/commercial/kenworthTest.java;
+              curl -o tractorTest.java https://raw.githubusercontent.com/UofL-CSE-AutoGrader/CSE-220/refs/heads/main/PA_DMV_Group/commercial/tractorTest.java;
+      
+        
+      # Set up Java (you can specify any required version here, 
+      - name: Set up JDK 22
+        uses: actions/setup-java@v4
+        with:
+          java-version: '22'
+          distribution: 'temurin'
+
+      # Cache Maven dependencies to speed up build times
+      - name: Cache Maven packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.m2/repository
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
+          restore-keys: |
+            ${{ runner.os }}-maven-
+
+      # Install Maven dependencies
+      - name: Install Maven dependencies
+        run: mvn install -DskipTests -Dgpg.skip=true
+        working-directory: DMV_Personal_Commercial
+
+      # Run Maven tests
+      - name: Run Maven tests
+        run: mvn test -Dgpg.skip=true
+        working-directory: DMV_Personal_Commercial
+
+
+      # # Optionally, upload test results
+      # - name: Archive test results
+      #   if: always()
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: test-results
+      #     path: target/surefire-reports/

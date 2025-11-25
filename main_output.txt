@@ -1,0 +1,992 @@
+/Users/nathan/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=64624:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/nathan/Documents/github/teaching/PA_DMV_Group_Assignment/DMV_Personal_Commercial/target/classes io.github.nathanjrussell.Main
+Vehicle Information:
+	VIN: F7E9NJH264ZF54MWV
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: Harley-Davidson
+		Manufacture ID: D88961
+		Model: Trike Model A
+			Frame Details:
+				Frame Type: Cruiser
+				Description: A motorcycle designed for long-distance riding with a relaxed riding position.
+			Engine Model: Milwaukee Eight 107
+				Engine Type: Combustion
+				Max Power Output: 92 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 1122.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: 02BSAFCVTRA580KR1
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: Harley-Davidson
+		Manufacture ID: D88961
+		Model: Trike Model B
+			Frame Details:
+				Frame Type: Cruiser
+				Description: A motorcycle designed for long-distance riding with a relaxed riding position.
+			Engine Model: Milwaukee Eight 114
+				Engine Type: Combustion
+				Max Power Output: 100 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 1868.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: XPVVEE87G2YK0PCSS
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: Harley-Davidson
+		Manufacture ID: D88961
+		Model: Sportster Model S
+			Frame Details:
+				Frame Type: Cruiser
+				Description: A motorcycle designed for long-distance riding with a relaxed riding position.
+			Engine Model: Milwaukee Eight 117
+				Engine Type: Combustion
+				Max Power Output: 125 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 1923.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: 9DYFH3RYGGE8B7EV1
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: Harley-Davidson
+		Manufacture ID: D88961
+		Model: Adventure Tourer
+			Frame Details:
+				Frame Type: Adventure
+				Description: A motorcycle built for both on-road and off-road travel, suitable for long journeys.
+			Engine Model: V-TWIN
+				Engine Type: Combustion
+				Max Power Output: 74 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 883.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: LE56EAG6BG72KAF0S
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: Harley-Davidson
+		Manufacture ID: D88961
+		Model: Electic Adventure Tourer
+			Frame Details:
+				Frame Type: Adventure
+				Description: A motorcycle built for both on-road and off-road travel, suitable for long journeys.
+			Engine Model: LiveWire
+				Engine Type: Electric
+				Max Power Output: 105 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 4
+					Warranty Miles: 30000
+
+Vehicle Information:
+	VIN: MCA28BPPBW6PANNEY
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: Harley-Davidson
+		Manufacture ID: D88961
+		Model: Electric City Cruiser
+			Frame Details:
+				Frame Type: Cruiser
+				Description: A motorcycle designed for long-distance riding with a relaxed riding position.
+			Engine Model: LiveWire
+				Engine Type: Electric
+				Max Power Output: 105 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 4
+					Warranty Miles: 30000
+
+Vehicle Information:
+	VIN: 26KPSHVRRGC3D8ELL
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: BMW
+		Manufacture ID: E99072
+		Model: R1250GS
+			Frame Details:
+				Frame Type: F900XR
+				Description: A versatile frame designed for sporty touring and everyday riding.
+			Engine Model: Boxer Twin 70kW
+				Engine Type: Combustion
+				Max Power Output: 95 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 1170.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: BHMVR4J6C1NVM27J3
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: BMW
+		Manufacture ID: E99072
+		Model: S1000RR
+			Frame Details:
+				Frame Type: S1000RR
+				Description: A superbike frame engineered for maximum speed and precision handling.
+			Engine Model: TwinPower Turbo 125kW
+				Engine Type: Combustion
+				Max Power Output: 170 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 999.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: P6TNDSNHXJC492AP2
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: BMW
+		Manufacture ID: E99072
+		Model: F900XR
+			Frame Details:
+				Frame Type: F900XR
+				Description: A versatile frame designed for sporty touring and everyday riding.
+			Engine Model: TwinPower Turbo 100kW
+				Engine Type: Combustion
+				Max Power Output: 136 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 2
+				Displacement: 853.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: 7VVHV1VB7RY6WZHCZ
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: BMW
+		Manufacture ID: E99072
+		Model: G310GS
+			Frame Details:
+				Frame Type: R1250GS
+				Description: An adventure-touring frame suitable for both on-road and off-road riding.
+			Engine Model: Single Cylinder 44kW
+				Engine Type: Combustion
+				Max Power Output: 60 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 1
+				Displacement: 313.0 CC
+				Engine Warranty Information:
+					Warranty Years: 2
+					Warranty Miles: 24000
+
+Vehicle Information:
+	VIN: CJTKCK6A57G22FM7W
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: BMW
+		Manufacture ID: E99072
+		Model: C400X
+			Frame Details:
+				Frame Type: F900XR
+				Description: A versatile frame designed for sporty touring and everyday riding.
+			Engine Model: Electric 31kW Motor
+				Engine Type: Electric
+				Max Power Output: 31 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 4
+					Warranty Miles: 30000
+
+Vehicle Information:
+	VIN: NX9H1KHMD2Z786HG3
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Motorcycle
+	Motorcycle Details:
+		Make: BMW
+		Manufacture ID: E99072
+		Model: C400GT
+			Frame Details:
+				Frame Type: F900XR
+				Description: A versatile frame designed for sporty touring and everyday riding.
+			Engine Model: Electric 31kW Motor
+				Engine Type: Electric
+				Max Power Output: 31 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 4
+					Warranty Miles: 30000
+
+Vehicle Information:
+	VIN: 2D7X574E3KVRD6S8A
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: Mustang GT
+			Frame Details:
+				Frame Type: S550 Platform
+				Description: Modern Mustang frame emphasizing rigidity and handling.
+			Engine Model: Coyote 5.0L V8
+				Engine Type: Combustion
+				Max Power Output: 460 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 8
+				Displacement: 5.0 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: LPBR1HTH2E397LBNM
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: Shelby GT500
+			Frame Details:
+				Frame Type: S550 Platform
+				Description: Modern Mustang frame emphasizing rigidity and handling.
+			Engine Model: Predator 5.2L V8
+				Engine Type: Combustion
+				Max Power Output: 760 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 8
+				Displacement: 5.2 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: EDPK87PK28NM33Y3K
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: F-150 XLT
+			Frame Details:
+				Frame Type: U775 Platform
+				Description: Strong body-on-frame platform used in the F-Series trucks.
+			Engine Model: EcoBoost 3.5L V6
+				Engine Type: Combustion
+				Max Power Output: 400 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 6
+				Displacement: 3.5 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: 98XT7BR4HX4R2XNGH
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: F-150 Super Duty
+			Frame Details:
+				Frame Type: T-Series
+				Description: Modern ladder frame engineered for Ford trucks and heavy-duty SUVs.
+			Engine Model: Godzilla 7.3L V8
+				Engine Type: Combustion
+				Max Power Output: 430 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 8
+				Displacement: 7.3 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: 2L5975GGHLSC7247Z
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: Fusion SE
+			Frame Details:
+				Frame Type: CD4 Platform
+				Description: Versatile front-wheel drive and all-wheel drive unibody frame for sedans and crossovers.
+			Engine Model: EcoBoost 2.0L I4
+				Engine Type: Combustion
+				Max Power Output: 245 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 4
+				Displacement: 2.0 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: RD8HEG65JNFNMMT8P
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: Escape
+			Frame Details:
+				Frame Type: CD4 Platform
+				Description: Versatile front-wheel drive and all-wheel drive unibody frame for sedans and crossovers.
+			Engine Model: Duratec 2.3L I4
+				Engine Type: Combustion
+				Max Power Output: 160 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 4
+				Displacement: 2.3 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: MMG2FCJNHB7EKVRYB
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: Mustang Mach-E
+			Frame Details:
+				Frame Type: GE1 Platform
+				Description: Ford's dedicated electric vehicle frame, underpinning the Mustang Mach-E.
+			Engine Model: Ford Electric 210kW
+				Engine Type: Electric
+				Max Power Output: 281 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 8
+					Warranty Miles: 100000
+
+Vehicle Information:
+	VIN: ZGN13MMEBMDHEVX7D
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: F-150 Lightning
+			Frame Details:
+				Frame Type: TE1 Platform
+				Description: Heavy-duty electric truck frame used for the F-150 Lightning.
+			Engine Model: Ford Electric 358kW
+				Engine Type: Electric
+				Max Power Output: 480 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 8
+					Warranty Miles: 100000
+
+Vehicle Information:
+	VIN: 8ZTGY03G1T1791TRR
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Ford Motor Company
+		Manufacture ID: F12345
+		Model: Focus Electric
+			Frame Details:
+				Frame Type: CD4 Platform
+				Description: Versatile front-wheel drive and all-wheel drive unibody frame for sedans and crossovers.
+			Engine Model: Ford Electric 150kW
+				Engine Type: Electric
+				Max Power Output: 201 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 8
+					Warranty Miles: 100000
+
+Vehicle Information:
+	VIN: RHNJZSLZ98W1C2PNC
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Camaro SS
+			Frame Details:
+				Frame Type: Zeta Platform
+				Description: Performance-oriented unibody frame used in the Camaro and other sporty models.
+			Engine Model: LS1 5.7L V8
+				Engine Type: Combustion
+				Max Power Output: 345 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 8
+				Displacement: 5.7 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: 5P1LBBEFYKFWNFKLE
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Corvette Stingray
+			Frame Details:
+				Frame Type: Alpha Platform
+				Description: Lightweight, rigid frame engineered for modern performance sedans and coupes.
+			Engine Model: Small Block 5.7L V8
+				Engine Type: Combustion
+				Max Power Output: 290 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 8
+				Displacement: 5.7 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: RBRY740Z7L30HC23M
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Silverado 1500
+			Frame Details:
+				Frame Type: T1XX
+				Description: Current generation full-size SUV and truck frame offering enhanced safety and capability.
+			Engine Model: Vortec 4.3L V6
+				Engine Type: Combustion
+				Max Power Output: 200 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 6
+				Displacement: 4.3 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: YZFRNYXR6FJWFA5RV
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Suburban
+			Frame Details:
+				Frame Type: GMT900
+				Description: Improved full-size SUV and truck frame designed for strength and towing capacity.
+			Engine Model: Big Block 7.4L V8
+				Engine Type: Combustion
+				Max Power Output: 360 HP
+				Fuel Type: Gasoline
+				Number of Cylinders: 8
+				Displacement: 7.4 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 80000
+
+Vehicle Information:
+	VIN: K45EHVBFD0G25K5TK
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Bolt EV
+			Frame Details:
+				Frame Type: E2XX
+				Description: Mid-size car platform providing a balance of comfort, efficiency, and handling.
+			Engine Model: Electric 150kW Motor
+				Engine Type: Electric
+				Max Power Output: 150 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 8
+					Warranty Miles: 100000
+
+Vehicle Information:
+	VIN: FTAFV8MPD71P8HDGN
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Silverado EV
+			Frame Details:
+				Frame Type: T1XX
+				Description: Current generation full-size SUV and truck frame offering enhanced safety and capability.
+			Engine Model: Electric 350kW Motor
+				Engine Type: Electric
+				Max Power Output: 350 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 8
+					Warranty Miles: 100000
+
+Vehicle Information:
+	VIN: 8SVDD2MMME0258XCH
+	Vehicle Category: Non-Commercial
+	Non-Commercial Category: Pickup Truck
+	Pickup Truck Details:
+		Make: Chevrolet
+		Manufacture ID: C67890
+		Model: Camaro E
+			Frame Details:
+				Frame Type: Alpha Platform
+				Description: Lightweight, rigid frame engineered for modern performance sedans and coupes.
+			Engine Model: Electric 200kW Motor
+				Engine Type: Electric
+				Max Power Output: 200 kW
+				Motor Type: Direct Current
+				Engine Warranty Information:
+					Warranty Years: 8
+					Warranty Miles: 100000
+
+Vehicle Information:
+	VIN: 67YZ50CZ4M872BSXV
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth T680 MX-13
+			Frame Details:
+				Frame Type: T680 Frame
+				Description: Aerodynamic Class 8 highway tractor frame engineered for fuel efficiency and comfort.
+			Engine Model: PACCAR MX-13 12.9L I6
+				Engine Type: Combustion
+				Max Power Output: 510 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 12.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: YESA6475G0Y2A9SS5
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth T680 X15
+			Frame Details:
+				Frame Type: T680 Frame
+				Description: Aerodynamic Class 8 highway tractor frame engineered for fuel efficiency and comfort.
+			Engine Model: Cummins X15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 605 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: 7K4JH0FGGCNYNEJJ3
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth T880 MX-11
+			Frame Details:
+				Frame Type: T880 Frame
+				Description: Vocational Class 8 frame designed for dump, mixer, and heavy-duty hauling applications.
+			Engine Model: PACCAR MX-11 10.9L I6
+				Engine Type: Combustion
+				Max Power Output: 430 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 10.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: 6D019D453AEC5ERRN
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth T880 X15
+			Frame Details:
+				Frame Type: T880 Frame
+				Description: Vocational Class 8 frame designed for dump, mixer, and heavy-duty hauling applications.
+			Engine Model: Cummins X15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 605 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: ZNMT1YGLHDTJ69NH7
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth W900 MX-13
+			Frame Details:
+				Frame Type: W900 Frame
+				Description: Iconic long-nose frame emphasizing strength, custom styling, and heavy-haul durability.
+			Engine Model: PACCAR MX-13 12.9L I6
+				Engine Type: Combustion
+				Max Power Output: 510 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 12.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: NXJ5FA1YMM9VEPE1L
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth W990 MX-13
+			Frame Details:
+				Frame Type: W990 Frame
+				Description: Modern evolution of the W900 frame, blending classic style with contemporary performance.
+			Engine Model: PACCAR MX-13 12.9L I6
+				Engine Type: Combustion
+				Max Power Output: 510 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 12.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: W0A8C9C28FL3SZGGN
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth W990 X15
+			Frame Details:
+				Frame Type: W990 Frame
+				Description: Modern evolution of the W900 frame, blending classic style with contemporary performance.
+			Engine Model: Cummins ISX12 11.6L I6
+				Engine Type: Combustion
+				Max Power Output: 425 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 11.6 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: 0TMGVDJPNNTYZ8LHZ
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth C500 MX-15
+			Frame Details:
+				Frame Type: C500 Frame
+				Description: Severe-duty Class 8 frame built for oilfield, logging, and extreme vocational work.
+			Engine Model: PACCAR MX-15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 600 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: 81WECJXY7HJEL9GF9
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth C500 X15
+			Frame Details:
+				Frame Type: C500 Frame
+				Description: Severe-duty Class 8 frame built for oilfield, logging, and extreme vocational work.
+			Engine Model: Cummins X15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 605 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: 5TXTY8BBE5D29R036
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Kenworth
+		Manufacture ID: K11223
+		Model: Kenworth K100 MX-11
+			Frame Details:
+				Frame Type: K100 Frame
+				Description: Historic cab-over-engine frame offering maneuverability for tight urban and regional routes.
+			Engine Model: PACCAR MX-11 10.9L I6
+				Engine Type: Combustion
+				Max Power Output: 430 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 10.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 500000
+
+Vehicle Information:
+	VIN: DE9V87SEZKAMJBTCX
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Cascadia DD13
+			Frame Details:
+				Frame Type: Cascadia Frame
+				Description: Aerodynamic long-haul highway tractor frame optimized for efficiency and driver comfort.
+			Detroit Diesel Engine Model: Detroit Diesel DD13 12.8L I6
+				Engine Type: Combustion
+				Max Power Output: 450 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 12.8 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: YCNCXYV2J2996SBMA
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Cascadia DD15
+			Frame Details:
+				Frame Type: Cascadia Frame
+				Description: Aerodynamic long-haul highway tractor frame optimized for efficiency and driver comfort.
+			Detroit Diesel Engine Model: Detroit Diesel DD15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 505 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: D4VPAYY5N4P34PPG8
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Cascadia DD16
+			Frame Details:
+				Frame Type: Cascadia Frame
+				Description: Aerodynamic long-haul highway tractor frame optimized for efficiency and driver comfort.
+			Detroit Diesel Engine Model: Detroit Diesel DD16 15.9L I6
+				Engine Type: Combustion
+				Max Power Output: 600 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 15.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: 3096LYDRDY0DH2W9P
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Cascadia X15
+			Frame Details:
+				Frame Type: Cascadia Frame
+				Description: Aerodynamic long-haul highway tractor frame optimized for efficiency and driver comfort.
+			Cummins Engine Model: Cummins X15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 605 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: 9LS78MHEKT7E78E6Y
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Columbia Series 60
+			Frame Details:
+				Frame Type: Columbia Frame
+				Description: Durable Class 8 frame built for regional hauling and heavy-duty applications.
+			Detroit Diesel Engine Model: Detroit Diesel Series 60 12.7L I6
+				Engine Type: Combustion
+				Max Power Output: 470 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 12.7 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: ZTZZY1VNV2HCVDTRC
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Columbia ISX15
+			Frame Details:
+				Frame Type: Columbia Frame
+				Description: Durable Class 8 frame built for regional hauling and heavy-duty applications.
+			Cummins Engine Model: Cummins ISX15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 550 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: KFSJLRLXH15FGCX3N
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Coronado DD16
+			Frame Details:
+				Frame Type: Coronado Frame
+				Description: Heavy-duty vocational frame designed for logging, mining, and other severe applications.
+			Detroit Diesel Engine Model: Detroit Diesel DD16 15.9L I6
+				Engine Type: Combustion
+				Max Power Output: 600 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 15.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: A6Y1ZTVX9E896CP6W
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: Coronado X15
+			Frame Details:
+				Frame Type: Coronado Frame
+				Description: Heavy-duty vocational frame designed for logging, mining, and other severe applications.
+			Cummins Engine Model: Cummins X15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 605 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: 2ZJ2SAWAX933ARHC7
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: FLD Series 60
+			Frame Details:
+				Frame Type: FLD Frame
+				Description: Classic Freightliner frame for on-highway use, known for strength and serviceability.
+			Detroit Diesel Engine Model: Detroit Diesel Series 60 12.7L I6
+				Engine Type: Combustion
+				Max Power Output: 470 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 12.7 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+Vehicle Information:
+	VIN: 9E300KSCCA4189DEF
+	Vehicle Category: Commercial
+	Commercial Category: Class A Tractor
+	Tractor Details:
+		Make: Freightliner
+		Manufacture ID: F44556
+		Model: FLD ISX15
+			Frame Details:
+				Frame Type: FLD Frame
+				Description: Classic Freightliner frame for on-highway use, known for strength and serviceability.
+			Cummins Engine Model: Cummins ISX15 14.9L I6
+				Engine Type: Combustion
+				Max Power Output: 550 HP
+				Fuel Type: Diesel
+				Number of Cylinders: 6
+				Displacement: 14.9 L
+				Engine Warranty Information:
+					Warranty Years: 5
+					Warranty Miles: 300000
+
+
+Process finished with exit code 0
+
