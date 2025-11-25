@@ -2,7 +2,7 @@
 # Group Assignment
 
 READ THIS ENTIRE README FILE CAREFULLY BEFORE BEGINNING THE ASSIGNMENT.
-
+You may use AI
 Heads up!  Completing this assignment will require reading through documentation. This assignment cannot be completed by simply following step-by-step instructions. You will need to first understand the design patterns and then implement the required classes and methods based on the provided Java Docs and unit tests.
 
 IT IS VERY LIKELY THIS ASSIGNMENT WILL TAKE LONGER THAN YOU EXPECT.  PLAN ACCORDINGLY.
@@ -97,7 +97,7 @@ You are encouraged to collaborate with your classmates on this assignment. Howev
 * You may discuss general concepts and approaches to the assignment with your classmates.
 * You may not share code snippets or solutions with your classmates.
 * You must write your own code and ensure that it is entirely your own work.
-* You may not seek help from any individual other than the TA and instructor.
+* You may not seek help from any individual other than the TA and instructor. You may use AI
 
 ## Suggested Approach
 You consider the following approach to complete the assignment:
